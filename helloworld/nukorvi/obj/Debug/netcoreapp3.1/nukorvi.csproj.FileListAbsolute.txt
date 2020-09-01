@@ -1,0 +1,13 @@
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.exe
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.deps.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.runtimeconfig.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.runtimeconfig.dev.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.dll
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\bin\Debug\netcoreapp3.1\nukorvi.pdb
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.csprojAssemblyReference.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.AssemblyInfoInputs.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.AssemblyInfo.cs
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.csproj.CoreCompileInputs.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.dll
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.pdb
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\helloworld\nukorvi\obj\Debug\netcoreapp3.1\nukorvi.genruntimeconfig.cache
