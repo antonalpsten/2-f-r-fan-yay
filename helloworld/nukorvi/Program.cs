@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.Diagnostics;
 
 namespace nukorvi
 {
@@ -6,7 +8,7 @@ namespace nukorvi
     {
         static void Main(string[] args)
         {   
-         
+            
             Console.WriteLine("hello bomers!!!");
 
             Console.WriteLine("skriv ditt namn!");
@@ -21,7 +23,7 @@ namespace nukorvi
 
             string alive = Console.ReadLine();
 
-            if(alive == "ja")
+            if (alive == "ja")
             {
                 Console.WriteLine(User);
                 Console.WriteLine(age);
@@ -34,7 +36,28 @@ namespace nukorvi
                 Console.WriteLine(":(");
             }
 
+            for (int i = 0; i < age; i++)
+            {
+                Console.WriteLine("bomer");
+       
+            }
 
+            while (alive == "nej")
+            {
+                Console.WriteLine("hur fan kan du vara här");
+            }
+            switch (age)
+            {
+                case 15:
+                    Console.WriteLine("äntligen får du ligga");
+                    break;
+                case 18:
+                    Console.WriteLine("nu fan blir det krogen");
+                    break;
+                default:
+                    Console.WriteLine("snart dördu så lev livet");
+                    break;
+            }
 
 
         }
