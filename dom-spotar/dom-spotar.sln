@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dom-spotar", "dom-spotar\dom-spotar.csproj", "{58B1E913-4904-4008-AE2C-80A438E6E2DC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "metodsanos", "..\..\..\..\source\repos\metodsanos\metodsanos\metodsanos.csproj", "{4E51AFF5-7A27-40F8-BB50-D7F0F8E45AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B1E913-4904-4008-AE2C-80A438E6E2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B1E913-4904-4008-AE2C-80A438E6E2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B1E913-4904-4008-AE2C-80A438E6E2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B1E913-4904-4008-AE2C-80A438E6E2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E51AFF5-7A27-40F8-BB50-D7F0F8E45AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E51AFF5-7A27-40F8-BB50-D7F0F8E45AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E51AFF5-7A27-40F8-BB50-D7F0F8E45AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E51AFF5-7A27-40F8-BB50-D7F0F8E45AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8879B907-336B-445C-B69E-09C08F356EAA}
+	EndGlobalSection
+EndGlobal

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\helloworld\\nukorvi\\nukorvi.csproj",
-      "projectName": "nukorvi",
-      "projectPath": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\helloworld\\nukorvi\\nukorvi.csproj",
+      "projectUniqueName": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\dom-spotar\\dom-spotar\\dom-spotar.csproj",
+      "projectName": "dom-spotar",
+      "projectPath": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\dom-spotar\\dom-spotar\\dom-spotar.csproj",
       "packagesPath": "C:\\Users\\anton.alpsten\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\helloworld\\nukorvi\\obj\\",
+      "outputPath": "C:\\Users\\anton.alpsten\\Documents\\gitehubes\\2-f-r-fan-yay\\dom-spotar\\dom-spotar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anton.alpsten\\AppData\\Roaming\\NuGet\\NuGet.Config",

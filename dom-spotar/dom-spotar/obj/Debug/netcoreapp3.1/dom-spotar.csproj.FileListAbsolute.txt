@@ -1,0 +1,13 @@
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.exe
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.deps.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.runtimeconfig.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.runtimeconfig.dev.json
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.dll
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\bin\Debug\netcoreapp3.1\dom-spotar.pdb
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.csprojAssemblyReference.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.AssemblyInfoInputs.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.AssemblyInfo.cs
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.csproj.CoreCompileInputs.cache
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.dll
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.pdb
+C:\Users\anton.alpsten\Documents\gitehubes\2-f-r-fan-yay\dom-spotar\dom-spotar\obj\Debug\netcoreapp3.1\dom-spotar.genruntimeconfig.cache
