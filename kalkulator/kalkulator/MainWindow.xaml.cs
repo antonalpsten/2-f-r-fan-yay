@@ -27,10 +27,10 @@ namespace kalkulator
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if(sender is Button number)
+            if (sender is Button number)
             {
-                switch(number.Content)
-                    {
+                switch (number.Content)
+                {
                     case "1":
                     case "2":
                     case "3":
@@ -52,15 +52,43 @@ namespace kalkulator
                         break;
                     default:
                         break;
-                    }
+                }
 
             }
         }
         private void ButtonEq_Click(object sender, RoutedEventArgs e)
         {
-            if (sender is Button number)
-            {
+            double svare = 0;
+            string [] numbreros;
+            numbreros = Display.Text.Split('+','-','/','*');
+            double numberouno = Convert.ToDouble(numbreros[0]);
+            double numberodoseso = Convert.ToDouble(numbreros[1]);
 
+            if (Display.Text.Contains('+'))
+            {
+                svare = numberouno + numberodoseso;
             }
+            if (Display.Text.Contains('-'))
+            {
+                svare = numberouno - numberodoseso;
+            }
+            if (Display.Text.Contains('*'))
+            {
+                svare = numberouno * numberodoseso;
+            }
+            if (Display.Text.Contains('/'))
+            {
+                svare = numberouno / numberodoseso;
+            }
+
+            Display.Text += " " + "=" + " " + svare;
         }
+
+        private void ButtonCler_Click(object sender, RoutedEventArgs e)
+        {
+            Display.Text = string.Empty;        
+        }
+
+     }
 }
+
