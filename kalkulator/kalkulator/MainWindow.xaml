@@ -18,24 +18,27 @@
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
             <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            
         </Grid.RowDefinitions>
-        <Button Grid.Column="0" Grid.Row="0" Content="1" FontSize="80px"/>
-        <Button Grid.Column="1" Grid.Row="0" Content="2" FontSize="80px"/>
-        <Button Grid.Column="2" Grid.Row="0" Content="3" FontSize="80px"/>
-        <Button Grid.Column="0" Grid.Row="1" Content="4" FontSize="80px"/>
-        <Button Grid.Column="1" Grid.Row="1" Content="5" FontSize="80px"/>
-        <Button Grid.Column="2" Grid.Row="1" Content="6" FontSize="80px"/>
-        <Button Grid.Column="0" Grid.Row="2" Content="7" FontSize="80px"/>
-        <Button Grid.Column="1" Grid.Row="2" Content="8" FontSize="80px"/>
-        <Button Grid.Column="2" Grid.Row="2" Content="9" FontSize="80px"/>
-        <Button Grid.Column="1" Grid.Row="3" Content="0" FontSize="80px"/>
-        <Button Grid.Column="0" Grid.Row="3" Content="." FontSize="80px"/>
-        <Button Grid.Column="2" Grid.Row="3" Content="#" FontSize="80px"/>
-        <Button Grid.Column="3" Grid.Row="0" Content="+" FontSize="80px"/>
-        <Button Grid.Column="3" Grid.Row="1" Content="-" FontSize="80px"/>
-        <Button Grid.Column="3" Grid.Row="2" Content="/" FontSize="80px"/>
-        <Button Grid.Column="3" Grid.Row="3" Content="*" FontSize="80px"/>
-
+        <Button Grid.Column="0" Grid.Row="1" Content="1" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="1" Grid.Row="1" Content="2" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="2" Grid.Row="1" Content="3" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="0" Grid.Row="2" Content="4" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="1" Grid.Row="2" Content="5" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="2" Grid.Row="2" Content="6" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="0" Grid.Row="3" Content="7" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="1" Grid.Row="3" Content="8" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="2" Grid.Row="3" Content="9" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="1" Grid.Row="4" Content="0" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="0" Grid.Row="4" Content="." FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="2" Grid.Row="4" Content="#" FontSize="60px" Click="ButtonEq_Click"/>
+        <Button Grid.Column="3" Grid.Row="1" Content="+" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="3" Grid.Row="2" Content="-" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="3" Grid.Row="3" Content="/" FontSize="60px" Click="Button_Click"/>
+        <Button Grid.Column="3" Grid.Row="4" Content="*" FontSize="60px" Click="Button_Click"/>
+        <TextBlock TextWrapping="Wrap" Grid.Row="0" Grid.ColumnSpan="4" Name="Display"/>
+        
 
     </Grid>
 </Window>

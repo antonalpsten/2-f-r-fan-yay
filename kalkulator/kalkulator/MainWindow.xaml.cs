@@ -24,5 +24,43 @@ namespace kalkulator
         {
             InitializeComponent();
         }
-    }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if(sender is Button number)
+            {
+                switch(number.Content)
+                    {
+                    case "1":
+                    case "2":
+                    case "3":
+                    case "+":
+                    case "4":
+                    case "5":
+                    case "6":
+                    case "-":
+                    case "7":
+                    case "8":
+                    case "9":
+                    case "/":
+                    case ".":
+                    case "0":
+                    case "#":
+                    case "*":
+
+                        Display.Text += number.Content;
+                        break;
+                    default:
+                        break;
+                    }
+
+            }
+        }
+        private void ButtonEq_Click(object sender, RoutedEventArgs e)
+        {
+            if (sender is Button number)
+            {
+
+            }
+        }
 }
