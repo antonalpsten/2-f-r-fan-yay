@@ -43,9 +43,7 @@ namespace kalkulator
                     case "8":
                     case "9":
                     case "/":
-                    case ".":
                     case "0":
-                    case "#":
                     case "*":
 
                         Display.Text += number.Content;
@@ -59,8 +57,8 @@ namespace kalkulator
         private void ButtonEq_Click(object sender, RoutedEventArgs e)
         {
             double svare = 0;
-            string [] numbreros;
-            numbreros = Display.Text.Split('+','-','/','*');
+            string[] numbreros;
+            numbreros = Display.Text.Split('+', '-', '/', '*');
             double numberouno = Convert.ToDouble(numbreros[0]);
             double numberodoseso = Convert.ToDouble(numbreros[1]);
 
@@ -86,9 +84,9 @@ namespace kalkulator
 
         private void ButtonCler_Click(object sender, RoutedEventArgs e)
         {
-            Display.Text = string.Empty;        
+            Display.Text = string.Empty;
         }
 
-     }
+    }
 }
 
